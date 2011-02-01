@@ -1,0 +1,39 @@
+ImageLib is an Image Library! DUH!
+
+Its purpose its to upgrade my knowledge of java.
+
+RoadMap
+
+Version 0.0.1
+
+Get Command Line arguments working with apache commins cli. Yeah I know, not image specific. But I need to learn basic stuff.
+
+
+Version 0.0.2
+
+Fetch image from a specific url 
+
+
+Version 0.0.3
+
+Fetch multiple images from specific url
+
+
+
+Version 0.0.4
+
+Parse html and get images list, then pass them to get fetched.
+
+
+Version 0.0.4
+
+Add multiple extensions support (jpg,png,bmp)
+
+
+Version 0.0.5
+
+Pull metadata from image and write them to a file with the same name as the image+.txt
+
+
+
+To be continued
