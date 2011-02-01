@@ -23,10 +23,11 @@ public class CmdLineInterface {
 		// This is gonna be fun :)
 		Options options = new Options();
 		
-		options.addOption("t", false, "display current time");
+		//Adding proper options
+		options.addOption("url", true, "URL!");
 		CommandLineParser parser = new PosixParser();
 		CommandLine cmd = parser.parse( options, args);
-		if(cmd.hasOption("t")) {
+		if(cmd.hasOption("url")) {
 		    System.out.println("bleh");
 		}
 		else {
