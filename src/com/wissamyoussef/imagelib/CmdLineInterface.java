@@ -31,7 +31,7 @@ public class CmdLineInterface {
 		    System.out.println("bleh");
 		}
 		else {
-		    System.out.println("fuckkkk");
+		    System.out.println("didn't work");
 		}
 	}
 
