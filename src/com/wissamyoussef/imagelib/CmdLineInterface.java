@@ -13,7 +13,7 @@ import org.apache.commons.cli.*;
  * @author Wissam Youssef
  *
  */
-public class CmdLineInterface {
+public class CmdLineInterface 
 
 	/**
 	 * @param args
