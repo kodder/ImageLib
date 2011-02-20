@@ -13,7 +13,7 @@ import org.apache.commons.cli.*;
  * @author Wissam Youssef
  *
  */
-public class CmdLineInterface 
+public class CmdLineInterface {
 
 	/**
 	 * @param args
@@ -21,7 +21,7 @@ public class CmdLineInterface
 	 */
 	public static void main(String[] args) throws ParseException {
 		// This is gonna be fun :)
-		Options options = new Options()
+		Options options = new Options();
 		
 		//Adding proper options
 		options.addOption("url", true, "URL!");
