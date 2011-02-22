@@ -19,7 +19,7 @@ public class CmdLineInterface {
 	 * @param args
 	 * @throws ParseException 
 	 */
-	public static void main(String[] args) throws ParseException {
+	public static void main(String[] args) throws ParseException 
 		// This is gonna be fun :)
 		Options options = new Options();
 		
